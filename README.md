@@ -58,6 +58,10 @@ The dashboard provides:
 - Fraud Amount Analysis
 - Fraud Distribution
 
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ---
 
 ## 📈 Project Workflow
