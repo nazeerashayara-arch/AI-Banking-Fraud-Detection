@@ -64,6 +64,13 @@ The dashboard provides:
 
 ---
 
+## 🚀 Live Demo
+
+Streamlit App:
+https://ai-banking-fraud-detection-n2rwgxeds88emkxykktxy5.streamlit.app
+
+---
+
 ## 📈 Project Workflow
 
 1. Data Collection
