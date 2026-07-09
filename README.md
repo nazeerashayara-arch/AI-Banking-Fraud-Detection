@@ -12,6 +12,8 @@ This project uses Machine Learning to detect fraudulent banking transactions and
 - Compare multiple Machine Learning algorithms.
 - Improve fraud detection accuracy.
 - Visualize transaction insights using dashboards.
+- Deploy the prediction model using Streamlit.
+
 
 ---
 
@@ -24,6 +26,7 @@ This project uses Machine Learning to detect fraudulent banking transactions and
 - Pandas
 - NumPy
 - Matplotlib
+- Streamlit
 - Power BI
 - Git & GitHub
 
@@ -48,15 +51,6 @@ This project uses Machine Learning to detect fraudulent banking transactions and
 - Support Vector Machine (SVM)
 
 ---
-
-## 📊 Dashboard
-
-The dashboard provides:
-
-- Total Transactions
-- Fraud vs Genuine Transactions
-- Fraud Amount Analysis
-- Fraud Distribution
 
 ## 📷 Dashboard Preview
 
